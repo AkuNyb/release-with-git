@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/AkuNyb/release-with-git/compare/v1.1.0...v1.2.0) (2023-01-13)
+
+
+### Features
+
+* print current time ([e7c98be](https://github.com/AkuNyb/release-with-git/commit/e7c98be45ee7b6cab2854ce28d897a9afc855236))
+
 ## [1.1.0](https://github.com/AkuNyb/release-with-git/compare/v1.0.0...v1.1.0) (2023-01-13)
 
 
